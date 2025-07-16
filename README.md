@@ -10,7 +10,7 @@ A machine learning-based web app that classifies emails as **Spam** or **Not Spa
 
 ## 🚀 Live Demo
 
-🔗 [Click to try the app!](https://your-username-spam-email-classifier-real.streamlit.app)
+🔗 [Click to try the app!](https://kritikatech05-spam-email-classifier.streamlit.app)
 
 ---
 
@@ -25,42 +25,35 @@ A machine learning-based web app that classifies emails as **Spam** or **Not Spa
 
 ## 🗃️ Dataset Used
 
-- **UCI SMS Spam Collection**  
-- [View Dataset →](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
+- **UCI SMS Spam Collection Dataset**  
+- 🔗 [View on UCI Repository](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python 🐍
-- scikit-learn 🤖
-- Streamlit 🌐
-- Google Colab (for model training)
-- GitHub (for deployment & version control)
+- Python 🐍  
+- scikit-learn 🤖  
+- Streamlit 🌐  
+- Google Colab (for model training)  
+- GitHub (for version control & deployment)
 
 ---
 
 ## 🧪 How to Run Locally
 
-1. Clone the repo:
-
-```bash
-git clone https://github.com/your-username/Spam_Email_Classifier_Real.git
+# 1. Clone the repository
+git clone https://github.com/kritikatech05/Spam_Email_Classifier_Real.git
 cd Spam_Email_Classifier_Real
-Install dependencies:
 
-bash
-Copy
-Edit
+# 2. Install dependencies
 pip install -r requirements.txt
-Run the app:
 
-bash
-Copy
-Edit
+# 3. Run the app
 streamlit run app.py
-📁 Folder Structure
-bash
+
+## 📁 Folder Structure
+text
 Copy
 Edit
 Spam_Email_Classifier_Real/
@@ -68,26 +61,14 @@ Spam_Email_Classifier_Real/
 ├── spam_classifier_model.pkl # Trained ML model
 ├── vectorizer.pkl            # Tfidf vectorizer
 ├── requirements.txt          # Dependencies
-├── README.md                 # Project overview
-📌 Author
-Kritika Sharma
-📍 Data Science Intern @ Celebal Technologies
-💼 LinkedIn Profile (update this)
+└── README.md                 # Project overview
 
-📃 License
+## 👩‍💻 Author
+**Kritika Sharma**  
+🎓 _Data Science Intern @ Celebal Technologies_  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kritika-sharma0501/)
+
+
+## 📃 License
 This project is licensed under the MIT License.
-Feel free to use and modify with credit.
-
-yaml
-Copy
-Edit
-
----
-
-## ✅ What to Update:
-- Replace:
-  - `your-username` with your **GitHub username**
-  - Streamlit link with your **actual deployed URL**
-  - LinkedIn link with **your profile** (optional)
-
----
+Feel free to use, fork, and modify — with credit.
