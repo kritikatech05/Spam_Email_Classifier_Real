@@ -52,13 +52,7 @@ pip install -r requirements.txt
 # 3. Run the app
 streamlit run app.py
 
-## 📁 Folder Structure
-Spam_Email_Classifier_Real/
-├── app.py # Streamlit web app
-├── spam_classifier_model.pkl # Trained ML model
-├── vectorizer.pkl # Tfidf vectorizer
-├── requirements.txt # Dependencies
-└── README.md # Project overview
+<pre><code>## 📁 Folder Structure ``` Spam_Email_Classifier_Real/ ├── app.py # Streamlit web app ├── spam_classifier_model.pkl # Trained ML model ├── vectorizer.pkl # Tfidf vectorizer ├── requirements.txt # Dependencies └── README.md # Project overview ``` </code></pre>
 
 ## 👩‍💻 Author
 **Kritika Sharma**  
